@@ -5,7 +5,7 @@
 
 - [Creating build in your pc](#installation) – How to create a local build of the application.
 
-AstroSat Visualizer works on all operation systems.
+AstroSat Visualizer works on all operating systems.
 
 ## Prerequisites
 
